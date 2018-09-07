@@ -42,12 +42,12 @@ O documento de arquitetura está bem fundamentado no que diz respeito a arquitet
 
 #### **Documentação Geral**
 
-Não encontrei nenhuma documentação em relação ás sprints de vocês, e nessa altura isso é procupante. (╥_╥) 
+A documentação de vocês tá um pouco incompleta, mas não tá ruim! Seria interessante colocar algumas outras informações ali, como o grafico do burndown e riscos, mas é bem interessante que vocês tem quadro de conhecimento e de presença em daily.
 
 
 - ## Considerações Finais
 
-Na minha opinião vocês parecem bem atrasados em algumas coisas, falta bastante documentação, e vocês também tem poucos commits. Mas ainda dá tempo de estabilizar tudo. Algumas dicas:
+Na minha opinião vocês parecem um pouco atrasados em algumas coisas, em relação á outros grupos, vocês tem poucos commits. Mas ainda dá tempo de estabilizar tudo. Algumas dicas:
 
 - Façam uma divisão melhor das issues( tem gente que ainda não commitou na master, por exemplo)
 - Façam uso do ZenHub, sem medo, usem com vontade ( ͡° ͜ʖ ͡°)
